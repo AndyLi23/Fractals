@@ -60,7 +60,7 @@ TSquare2R((0, 0), 100, t, None, 9, (sqrt(5) + 1) / 2)
 '''
 
 t._update()
-
+myWin.exitonclick()
 
 
 
